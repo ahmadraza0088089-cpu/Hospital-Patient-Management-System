@@ -1,0 +1,42 @@
+Record ID: MR-001
+Patient ID: P-001
+Doctor ID: D-001
+Diagnosis: Hypertension Stage 1
+Prescription: Amlodipine 5mg once daily, low-salt diet
+Date: 2025-08-01
+----------------------------
+Record ID: MR-002
+Patient ID: P-002
+Doctor ID: D-002
+Diagnosis: Hairline fracture – right wrist
+Prescription: Splint + Ibuprofen 400mg twice daily
+Date: 2025-08-03
+----------------------------
+Record ID: MR-001
+Patient ID: P-001
+Doctor ID: D-001
+Diagnosis: Hypertension Stage 1
+Prescription: Amlodipine 5mg once daily, low-salt diet
+Date: 2025-08-01
+----------------------------
+Record ID: MR-002
+Patient ID: P-002
+Doctor ID: D-002
+Diagnosis: Hairline fracture – right wrist
+Prescription: Splint + Ibuprofen 400mg twice daily
+Date: 2025-08-03
+----------------------------
+Record ID: MR-001
+Patient ID: P-001
+Doctor ID: D-001
+Diagnosis: Hypertension Stage 1
+Prescription: Amlodipine 5mg once daily, low-salt diet
+Date: 2025-08-01
+----------------------------
+Record ID: MR-002
+Patient ID: P-002
+Doctor ID: D-002
+Diagnosis: Hairline fracture – right wrist
+Prescription: Splint + Ibuprofen 400mg twice daily
+Date: 2025-08-03
+----------------------------
